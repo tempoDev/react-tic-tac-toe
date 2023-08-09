@@ -1,4 +1,4 @@
-# react Tic-Tac-Toe
+# React Tic-Tac-Toe
 
 Ejercicio realizado con REACT que simula el juego de 3 EN RAYA. Utiliza guardado automático del estado de la partida en localStorage.
 
